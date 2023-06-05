@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program
 ```
-NAME: barathraj b
-REG NO: 212222230019
+NAME: karnan k
+REG NO: 212222230062
 ```
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
